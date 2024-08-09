@@ -25,7 +25,7 @@ To get started with the solutions:
    ```
 
 3. **Check the Daily Problem:**
-   Each problem will be in a separate file named according to the date and problem title. For example: `2024-08-08-sum-of-array.cpp`.
+   Each problem will be in a separate file named according to the date and problem title. For example: `Date.c`.
 
 4. **Compile and Run the C++ Code:**
    ```bash

@@ -1,7 +1,3 @@
-Sure, I can help with that! Here's a sample `README.md` content for a GitHub repository that will contain daily GeeksforGeeks problems solved in C++:
-
----
-
 # GeeksforGeeks Daily Problems in C++
 
 Welcome to the repository where we solve the [GeeksforGeeks](https://www.geeksforgeeks.org/) Problem of the Day using C++!
